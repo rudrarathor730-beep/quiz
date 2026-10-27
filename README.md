@@ -5,7 +5,7 @@
 - **Roll No.:** 25BCON1175
 - **Email:** rudrarathor730@gmail.com
 - **GitHub:** [rudrarathor730-beep](https://github.com/rudrarathor730-beep)
-
+- **deploy live:** [https://quiz-tau-sepia.vercel.app/]
 ## Project Overview
 An interactive web-based quiz application designed to test foundational computer science and AI development concepts, including large language models, Git commit message conventions, unit testing practices, frontend separation of concerns, and algorithmic time complexity.
 
